@@ -4,3 +4,6 @@ Every year, Vegas books publish their win-totals and people can bet the 'over' o
 
 The goal of this project is to build a supervised classification model that can predict 'over' or 'under' on NBA season win-totals.  We will try various models (Logistic Regression, Random Forest, etc) and pick the best model.  To be a viable model, it must beat the baseline accuracy of 51%.  
 
+<p align="center">
+  <img src="https://github.com/aothree/NBA-Style-of-Play/blob/master/Visuals/three%20point%20frequency%202013%20v%202022%20hist.png"/>
+</p>
